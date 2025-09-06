@@ -35,8 +35,8 @@ make bonus
 
 ## 🗂️ Project Structure
 
-* `cub3D/` → Mandatory part
-* `cub3D_bonus/` → Bonus part
+* `mandatory/` → Mandatory part
+* `bonus/` → Bonus part
 * `map/` → Example map files (`.cub`)
 * `textures/` → Wall & floor textures
 

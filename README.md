@@ -56,7 +56,3 @@ make bonus
 * Texture mapping for walls
 * Floor and ceiling rendering
 * Bonus: sprites, animations, and more
-
-
-👉 Do you want me to also make a **short GIF/preview section** (with instructions to record the gameplay) so your README looks more attractive on GitHub?
-```

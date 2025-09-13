@@ -1,6 +1,4 @@
 
-
-
 # 🕹️ Cub3D: Raycasting Game Engine
 
 Cub3D is a 42 school project inspired by *Wolfenstein 3D*.  
